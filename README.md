@@ -1,0 +1,2 @@
+# Image Recognition Project
+This project is an image recognition project written in Python that uses four deep learning models for image classification: VGGNet, ResNet, Inception, and Xception. These models are some of the most popular and effective models for image classification tasks. The purpose of this project is to demonstrate the effectiveness of these models in classifying images and provide an example for other developers to use and contribute to.
